@@ -1,1 +1,2 @@
 agregando cambios a prueba.txt
+prueba de archivo de omision
